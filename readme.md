@@ -1,4 +1,4 @@
-# ida-project
+# itdelta-project
 
 
 ## Установка
