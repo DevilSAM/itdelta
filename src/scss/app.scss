@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap';
+
+// General styles
+@import "general";
+
+// и подключаем различные компоненты
+@import 'header';
+@import "buttons";
+@import "images_list";
+@import "modal";
+@import "spinner";
+@import "comments";
